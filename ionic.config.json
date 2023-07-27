@@ -1,0 +1,7 @@
+{
+  "name": "push-poc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
